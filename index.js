@@ -23,6 +23,6 @@ function dec(a) {
   number = a - 1;
   return number;
 }
-function (n) {
-  
+function makeInt(a) {
+  number = 
 }
